@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username"></string>
+    <string name="password"></string>
+    <string name="password1"></string>
+    <string name="phone"></string>
+</resources>
